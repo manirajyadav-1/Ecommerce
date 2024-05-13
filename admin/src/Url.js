@@ -1,1 +1,1 @@
-export const baseUrl = `https://e-commmerce-blb8.onrender.com`;
+export const baseUrl = `https://ecommerce-4c2b.onrender.com`;
