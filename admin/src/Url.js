@@ -1,0 +1,1 @@
+export const baseUrl = `https://e-commmerce-blb8.onrender.com`;
