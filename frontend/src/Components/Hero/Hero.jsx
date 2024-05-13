@@ -8,7 +8,9 @@ import Carousel from "../Carousel/Carousel";
 
 export default function Hero(){
     return <>
-        <Carousel />
+        <div>
+            <Carousel />
+        </div>
         {/* <div className="hero">
             <div className="hero-left">
                 <h2>NEW ARRIVALS ONLY</h2>
