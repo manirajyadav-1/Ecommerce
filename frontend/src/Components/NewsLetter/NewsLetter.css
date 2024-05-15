@@ -155,6 +155,7 @@
   .newsletter div {
     width: 290px;
     margin-top: 20px;
+    margin-left: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
